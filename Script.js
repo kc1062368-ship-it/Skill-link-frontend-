@@ -1,3 +1,4 @@
+alert("SkillLink JS LOADED");
 // ============================================================
 // SKILLLINK - FRONTEND JAVASCRIPT
 // PART 1
